@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="10" height="10">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="5" y1="9.92" x2="5" y2="0.08">
+			<stop offset="0" stop-color="#8089ee"  />
+			<stop offset="0.832" stop-color="#5bd8c6"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="bg">
+		<g id="Group 3">
+			<path id="Rounded Rectangle 1 copy 2" class="shp0" d="M9.15 4.84L6.39 5.72L7.27 8.47C7.46 9.06 7.14 9.68 6.55 9.87C5.97 10.05 5.34 9.73 5.16 9.15L4.28 6.39L1.53 7.27C0.94 7.46 0.32 7.14 0.13 6.55C-0.05 5.97 0.27 5.34 0.85 5.16L3.61 4.28L2.73 1.53C2.54 0.94 2.86 0.32 3.45 0.13C4.03 -0.05 4.66 0.27 4.84 0.85L5.72 3.6L8.47 2.73C9.06 2.54 9.68 2.86 9.87 3.45C10.05 4.03 9.73 4.66 9.15 4.84Z" />
+		</g>
+	</g>
+</svg>
